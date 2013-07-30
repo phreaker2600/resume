@@ -1,0 +1,187 @@
+.pl 16i
+.ce 1
+         .
+.sp 1
+.ps 20
+.rt 0.4i
+Stephen Wiley
+.ps
+.br
+.ce
+Software Engineer
+.rt 0.2i
+.DS R 
+.ps 8
+1180 Lickinghole rd. Goochland Virginia 23063 
+\(bu (804)-457-2181 \(bu theswiley@me.com
+.DE
+.nr HM 7i
+.nr PI 0.1i
+.sp 2.25
+.rt 0.6i
+\l'6i'
+.PP
+My objective is to secure a position in which I can contribute as part of a team of professional engineers working on challenging software projects and provide opportunities to build strengths functioning in a corporate environment.
+.sp 1
+.mk
+.SH
+.ce
+.rt
+Technical Skills
+.SH
+.mk
+Administration of Unix-like environments
+.RS
+.PP
+\(bu Linux and Mac OS 
+.PP
+\(bu Common unix shell tools (bash, sed, grep)
+.PP
+\(bu Regular expressions
+.RE
+.SH
+.rt
+.po +3.5i
+Software Development
+.RS
+.PP
+\(bu C (gcc, clang, MplabC, some c++ on Windows)
+.PP
+\(bu Assembly (pic18, 6507)
+.PP
+\(bu Scripting languages (bash,php,python,awk)
+.RE
+.PP Understands basics of network programing
+.po
+.sp 0.5
+.SH
+Hardware Development
+.RS
+.PP
+\(bu Single Board Computers running embedded linux and Micro Controllers. 
+.PP
+\(bu Designed hardware using UART, GPIO, PWM, and ADC.
+.PP
+\(bu Familiar with Xbee radio links and servo motors.
+.RE
+.mk
+.SH
+.ce
+.rt
+Education and previous work experience
+.mk
+.SH
+Embedded systems developer for G5 laser-tag 
+.RS
+.PP
+(August 2011 - March 2012)
+.PP
+\(bu Pic18f based embedded systems
+.PP
+\(bu Reverse engineering embeded software
+.PP
+\(bu Building wide 900Mhz radio network
+.PP
+\(bu Built Unix tools and software
+.PP
+\(bu Assistant Unix systems administrator
+.RE
+.rt
+.po +3.5i
+.mk
+.SH
+Working toward degree via Thomas Edison State Collage
+.RS
+.PP
+(August 2010-present)
+.PP
+\(bu Bachelors of Arts in Computer Science
+.RE
+.nr LL 3i
+.SH
+Undergraduate technical intern for Versign (TSG, CDE support)
+.RS
+.PP
+( June 2012 - December 2012)
+.PP
+\(bu Debugged and fixed build system C++ graphical remote login software.
+.PP
+\(bu Wrote scripts to examine differences in inventory lists.
+.PP
+\(bu Modified FreeBSD FORTH boot loader scripts to allow booting an alternate kernel.
+.PP
+\(bu Inter department coordination of VM owners.
+.nr LL 6i
+.sp 1
+.po
+.mk
+.SH
+.ce
+.rt
+.nr LL 3i
+Software Development Experience
+.SH
+C programing projects
+.mk
+.RS
+.PP
+\(bu Designed embedded laser tag objective devices that communicated wirelessly with a remote "arena control machine".
+.PP
+\(bu Built HP style stack based virtual machine.
+.PP
+\(bu Built a "falling sand game" for Nintendo Wii, which simulates a small 2d world using an array of finite automata.
+.PP
+\(bu Wrote a  3d tank game engine with a text based level file format. 
+.PP
+\(bu Learned OpenCL by writing a small program that raycasts spheres and planes.
+.PP
+\(bu Learned how not to write an interface building a 3d modeler for the Nintendo DS.
+.PP
+\(bu Wrote a minecraft style terrain generator for POVray.
+.RE
+\".mk
+.SH
+.rt
+.po +3.5i
+Assembly
+.RS
+.PP
+\(bu Built a fake bomb with the pic18 which sent radio commands to a remote computer to announce status.
+.RS
+.RE
+.PP
+\(bu Wrote a 6507 atariVCS display "kernel" subroutine.
+.RE
+.SH
+Other (bash, rpn etc)
+.RS
+.PP
+\(bu Wrote a traffic counter in awk and bash, preventing large charges from our ISP.
+.PP
+\(bu Wrote a Tool for typesetting lasertag scores in bash sed and troff.
+.PP
+\(bu Various ti84+ and HP32s calculator games.
+.PP
+\(bu Wrote finger and http servers for plan9.
+.RE
+.po
+.nr LL 6i
+.sp 1.5
+.mk
+.SH
+.ce
+Extracurricular Experiences and Hobbies
+.PP
+.mk
+\(bu Participated in First Lego League Robotics (2006-2009)
+.PP
+\(bu Assistant FLL coach (2009-2011)
+.PP
+\(bu Assistant game coach for AWANA (2007-2008)
+.PP
+.rt
+.po +3.5i 
+\(bu Built and ran distributed Plan 9 system and mail server
+.PP
+\(bu Electronics and animatronics
+.PP
